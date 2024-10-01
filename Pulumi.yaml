@@ -1,0 +1,6 @@
+name: pulumi-aetion
+runtime:
+  name: python
+  options:
+    toolchain: poetry
+#    typechecker: mypy
